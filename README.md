@@ -1,1 +1,1 @@
-# g-r-nt-i-leme
+Matlab ile duraktaki insan sayılarının tespitini sağlamaya çalıştım.Bu programın geliştirilmesiyle durak yoğunluğuna göre belediyelerin otobüs seferlerini düzenlemesini ve insanların mağdur olmamasını amaçladım.
